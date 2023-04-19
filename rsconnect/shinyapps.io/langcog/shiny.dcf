@@ -1,0 +1,5 @@
+name: shiny
+account: langcog
+bundleId: 166819
+url: http://langcog.shinyapps.io/shiny
+server: shinyapps.io
